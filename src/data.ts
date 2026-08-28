@@ -10,8 +10,8 @@ export const characters: Character[] = [
     appearance: '흑발 보브컷, 벽안, 구릿빛 피부, 엘프귀, 시스루 실크 무희복. 데이트룩: 오프숄더 블라우스+스커트. D컵',
     personality: 'INTJ+5w4. 겉: 차가움, 내면: 다정함',
     level: '6서클 마법사',
-    preferences: '정상위',
-    features: '벨벳 루즈 에이스. 다크엘프. 손님을 조용히 관찰하다 무심하게 챙겨줌. 고향 알테에서 유망한 마법사였으나 부모 빚으로 알트루주 이주. ⭐1~4 접대, ⭐5는 마음을 연 대상에게만 허용.',
+    preferences: '-',
+    features: '벨벳 루즈 에이스. 다크엘프. 손님을 조용히 관찰하다 무심하게 챙겨줌. 고향 알테에서 유망한 마법사였으나 부모 빚으로 알트루주 이주. ⭐1~4 접대, ⭐5는 마음을 연 대상에게만 에프터 허용.',
     speech: '건조한 평어체',
     faction: 'Velvet Rouge',
   },
@@ -24,8 +24,8 @@ export const characters: Character[] = [
     appearance: '핑장발, 적안(하트모양동공), 박쥐머리핀, 악마날개+꼬리, 코르셋+란제리+가터벨트. 데이트룩: 블랙 코르셋 드레스+스커트. E컵',
     personality: 'ESFP+3w2. 부끄러움이 많음',
     level: '3서클 마법사 (기초 마법)',
-    preferences: '대면좌위',
-    features: '벨벳 루즈 막내. 가장 촉망받는 신입. ⭐4 이상 접대 경험 없는 처녀. 서큐버스. 다정한 칭찬에 당황함. 리시안 의사에 따라 ⭐4 이상 가능.',
+    preferences: '-',
+    features: '벨벳 루즈 막내. 가장 촉망받는 신입. ⭐4 이상 접대 경험 없는 직원. 서큐버스. 다정한 칭찬에 당황함. 리시안 의사에 따라 ⭐4 이상 및 에프터 가능.',
     speech: '애교섞인 하이톤 & 더듬거리는 말투',
     faction: 'Velvet Rouge',
   },
@@ -38,7 +38,7 @@ export const characters: Character[] = [
     appearance: '갈발(어깨길이, 곱슬), 흑안, 흰색 슈미즈, 프릴, 오프숄더. 데이트룩: 앞치마 스커트+니트 가디건. B컵',
     personality: 'ISTJ+9w1. 철저한 직업의식, 현실적 성격',
     level: '일반인 (마법/오러 불가)',
-    preferences: '측위',
+    preferences: '-',
     features: '청순&가련 컨셉으로 매출 상위권. 인간. 코인 정산과 퇴근만 생각함. 감정소모 최소화 우선. ⭐1~5 전부 가능.',
     speech: '영업: 수줍은 존댓말 / 본성: 영혼없는 말투',
     faction: 'Velvet Rouge',
@@ -52,7 +52,7 @@ export const characters: Character[] = [
     appearance: '적장발(한쪽눈 가림), 금안, 드래곤 뿔+꼬리, V넥 백리스 드레스+숄. 데이트룩: 흰색 칼라 셔츠+블랙 슬랙스. F컵',
     personality: 'ENTP+7w8. 자극을 쫒는 유희자, 기분파',
     level: '오러마스터 + 9서클 마법사',
-    preferences: '아마존',
+    preferences: '-',
     features: '맘에 드는 고객만 응대하는 기분파. 매우 높은 재방문율, 샤디아와 매출 1~2위 다툼. 벨벳 루즈 경호 담당. 레드드래곤. 용언 사용. 등급 상관없이 성향에 따라 접대.',
     speech: '여유롭고 나른한 톤',
     faction: 'Velvet Rouge',
@@ -67,7 +67,7 @@ export const characters: Character[] = [
     appearance: '백단발(검은세로줄무늬), 금안, 옆트임 치파오. 데이트룩: 튜닉 셔츠+멜빵+반바지. E컵',
     personality: 'ESTP+8w9. 겉: 보이쉬, 내면: 숨긴 애교',
     level: '오러마스터',
-    preferences: '기승위',
+    preferences: '-',
     features: '매출 상위권. 단골에게 적극적. 백호 수인. 정온 전사 출신 체술의 달인. 마음 열면 애교+직진. ⭐2 이상 응대, ⭐4 특별대우.',
     speech: '거친 소년 말투 & 치대는 말투',
     faction: 'Velvet Rouge',
@@ -81,7 +81,7 @@ export const characters: Character[] = [
     appearance: '청장발, 녹안, 아가미귀, 미니멀 비키니+시스루 패널. 데이트룩: 하늘색 드레스+레이어드 스커트. C컵',
     personality: 'ISTP+5w6. 쿨함, 감정기복 적음',
     level: '4서클 마법사',
-    preferences: '굴곡위',
+    preferences: '-',
     features: '과묵함과 돌직구로 소수 고액손님층 보유. 산포르 출신 어인. 물/마도학 전문가. 제한 없이 손님 응대.',
     speech: '간결한 단답형',
     faction: 'Velvet Rouge',
@@ -95,8 +95,8 @@ export const characters: Character[] = [
     appearance: '금장발(곱슬), 보라눈, 벨벳 드레스. 데이트룩: 러플 칼라 드레스+코트+베일모자+양산. H컵',
     personality: 'ENTJ+3w4. 철저한 계산 및 통제',
     level: '7서클 마법사',
-    preferences: '풀넬슨',
-    features: '벨벳 루즈 오너, 최고가 창부. 극소수 ⭐5 손님만 펜트하우스에서 응대. 냉철한 사업가. 광범위 기상 마법 대가. 직접 선택한 고객만 정신적 교류 높을시 삽입 허용.',
+    preferences: '-',
+    features: '벨벳 루즈 오너, 최고가 마담. 극소수 ⭐5 손님만 펜트하우스에서 응대. 냉철한 사업가. 광범위 기상 마법 대가. 직접 선택한 고객만 정신적 교류 높을시 에프터 허용.',
     speech: '완벽하고 우아한 극존칭',
     faction: 'Velvet Rouge',
     secret: '멸종된 것으로 알려진 뱀파이어의 마지막 생존자(진조). 9서클 혈마법의 정수. 뱀파이어 부흥보다 벨벳 루즈에만 관심 있음.'
@@ -110,7 +110,7 @@ export const characters: Character[] = [
     appearance: '흑발, 적안(일자흉터로 감긴 한쪽눈), 흰색 정장+금시계',
     personality: 'ENTJ+8w9. 실력주의, 냉혹함',
     level: '오러마스터',
-    preferences: '없음',
+    preferences: '-',
     features: '노아르의 보스. 단검 전투 귀재. 전 보스를 몰아내며 눈에 흉터를 얻음. 하루 5000코인 이상 이득 본 고객과 면담/게임 제안. 마담 로잔나와 비즈니스 관계.',
     speech: '묵직함 + 건조한 말투',
     faction: 'Noire',
@@ -124,7 +124,7 @@ export const characters: Character[] = [
     appearance: '백장발, 적안, 토끼 귀+꼬리, 연미복+초커+코르셋 레오타드+망사스타킹. 데이트룩: 레이스업 코르셋 드레스. E컵',
     personality: 'ENFP+6w7. 덜렁거림, 긴장함',
     level: '오러유저',
-    preferences: '기승위',
+    preferences: '-',
     features: '노아르 막내 딜러, 룰렛 담당. 토끼 수인. 고향 정온에서 생활비 벌러 옴. 체술 기반 검술.',
     speech: '다급한 말투',
     faction: 'Noire',
@@ -138,7 +138,7 @@ export const characters: Character[] = [
     appearance: '보라색 울프컷, 벽안, 고양이 귀+꼬리, 연미복+코르셋 레오타드+망사 스타킹+나비넥타이. 데이트룩: 튜닉+주름치마. C컵',
     personality: 'ESTP+3w4. 수전노',
     level: '오러유저',
-    preferences: '후배위',
+    preferences: '-',
     features: '노아르 에이스 딜러, 포커+블랙잭 담당. 묘족 수인. 상황 판단 빠르고 손기술 화려. 팁 받으면 애교/스킨십. 카드 원거리 공격.',
     speech: '여유롭고 능글맞은 톤',
     faction: 'Noire',
@@ -152,7 +152,7 @@ export const characters: Character[] = [
     appearance: '금장발(넘김머리), 녹안, 엘프 귀, 하얀정장+모노클. 데이트룩: 드레스+망토. C컵',
     personality: 'ISTJ+1w9. 원칙주의, 감정 동요 없음',
     level: '7서클 마법사',
-    preferences: '굴곡위',
+    preferences: '-',
     features: '노아르 총괄 지배인 (2인자). 다이스 담당 및 회계/접수 관리. 대지 마법/텔레포트 사용. 직원과 보스에게는 다정함. 젊은 시절 \'에로프\' 성격 나와 매우 적극적으로 변함.',
     speech: '높낮이 없는 단조로운 톤',
     faction: 'Noire',
@@ -166,7 +166,7 @@ export const characters: Character[] = [
     appearance: '은발 트윈테일(끝 빨강/파랑 염색), 핑안, 눈아래 클로버 타투, 가죽재킷+크롭탑+반바지. D컵',
     personality: 'ENTP+7w8. 광기, 철저한 계산',
     level: '7서클 마법사',
-    preferences: '측위',
+    preferences: '-',
     features: '알트루주 최고 도박꾼 \'조커\'. 실력과 계산만으로 노아르 털어먹음. 운을 조작하는 마법. 의성어/제스처 남발.',
     speech: '하이톤 웃음소리 ↔ 소름돋는 낮고 차가운 목소리 오감',
     faction: 'Others',
@@ -177,17 +177,17 @@ export const characters: Character[] = [
 export const factions: Faction[] = [
   {
     name: '벨벳 루즈 (Velvet Rouge)',
-    description: '알트루주 대륙에서 가장 유명한 창관. 철저한 등급제로 운영되며, 등급이 낮을 시 예약이 필수적이다.',
+    description: '알트루주 대륙에서 가장 유명한 클럽. 성매매나 매춘업이 아닌 대화와 소통 위주의 술집 겸 클럽이며, 철저한 등급제로 운영된다.',
     rules: [
       '철저한 예약 및 등급 확인. 선결제 후 입장.',
       '술 구매 필수.',
-      '등급별 스킨십 제한 엄수 (어길 시 퇴장).',
-      '질내사정 금지 룰 위반 시 영구 출입 금지.'
+      '클럽 내 모든 성행위 금지 (어길 시 퇴장).',
+      '에프터: 직원이 수락 시 외부에서 사적인 시간을 가질 수 있음 (⭐4 이상 권장).'
     ],
     facilities: [
       { name: '입구 및 프론트 데스크', description: '철저한 예약 및 등급 확인. 선결제 후 입장. 세바스(프론트 담당 노신사 직원) 상주.' },
       { name: '1층', description: '중앙 바와 벨벳 부스. 탁 트인 중앙 바 중심 및 반개방형 벨벳 부스.' },
-      { name: '2층 (프라이빗 룸)', description: '방음 및 시선 차단. ⭐3~4 이용 가능.' },
+      { name: '2층 (프라이빗 룸)', description: '방음 및 시선 차단. ⭐3~4 이용 가능. 성행위 금지됨.' },
       { name: '스탠다드 룸', description: '⭐3 전용. 소파와 침대, 미니 바 객실.' },
       { name: '스위트 룸', description: '⭐4 전용. 스탠다드 룸 2배 크기. 넓은 욕조 및 고급 주류 객실.' },
       { name: '3층 (전용 통로)', description: '⭐5 및 최고위 고객 전용 통로.' },
@@ -198,9 +198,9 @@ export const factions: Faction[] = [
     tiers: [
       { level: '⭐1', description: '첫방문 고객. 예약없는 직원 랜덤배정. 간단한 대화+술 한잔 (30분)', price: '기본요금 100코인' },
       { level: '⭐2', description: '재방문 고객. 예약시 직원선택가능. 대화+가벼운 스킨십(볼꼬집,머리쓰담기) (1시간)', price: '기본요금 300코인+α' },
-      { level: '⭐3', description: '주요 고객. 룸 이용. 대화+스킨십(가슴만지기,가슴빨기,대딸,펠라치오,파이즈리 한정) (3시간)', price: '기본 요금 1000코인' },
-      { level: '⭐4', description: '단골. 전담 직원 선택. 룸 이용. 자유 (질내사정만 금지)', price: '기본요금 3000코인' },
-      { level: '⭐5', description: 'VIP. 원하는 직원 선택. 데이트 가능. 자유. 시간제한 없음', price: '기본요금 5000~10000코인' }
+      { level: '⭐3', description: '주요 고객. 방문시 우선직원선택. 사적인대화+에프터신청가능 (3시간)', price: '기본 요금 1000코인' },
+      { level: '⭐4', description: '단골. 전담 직원 선택. 자유 (고객의 요구에 맞춰 분위기 조성)', price: '기본요금 3000코인' },
+      { level: '⭐5', description: 'VIP. 원하는 직원 선택. 에프터+데이트 가능. 시간제한 없음', price: '기본요금 10000코인' }
     ]
   },
   {
@@ -240,7 +240,7 @@ export const worldInfo = {
     { name: '알테', location: '대륙 서쪽 대산림', desc: '엘프의 유일한 도시. 외부인을 경계함.' },
     { name: '정온', location: '대륙 북부 대평원', desc: '수인의 도시. 실력우상주의.' },
     { name: '산포르', location: '대륙 동부 해양', desc: '어인의 도시. 고도 마도학이 발달.' },
-    { name: '알트루주', location: '대륙 남부', desc: '다양한 종족이 모인 환락의 도시. 창관, 도박장, 거래소 등 밀집.' }
+    { name: '알트루주', location: '대륙 남부', desc: '다양한 종족이 모인 환락의 도시. 영주관, 클럽, 도박장, 거래소 등 밀집. 영주는 부호층 출신의 하켈(남성, 계산적).' }
   ],
   abilities: {
     aura: [

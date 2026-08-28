@@ -71,14 +71,10 @@ export function CharacterCard({ character }: CharacterCardProps) {
             <p className="text-sm text-stone-400 mt-1 leading-relaxed">{character.features}</p>
           </div>
 
-          <div className="grid grid-cols-2 gap-4 pt-2 border-t border-stone-800 mt-auto text-sm">
+          <div className="pt-2 border-t border-stone-800 mt-auto text-sm">
             <div>
               <span className="text-stone-500 block text-xs">Speech</span>
               <span className="text-stone-300">{character.speech}</span>
-            </div>
-            <div>
-              <span className="text-stone-500 block text-xs">Preference</span>
-              <span className="text-stone-300">{character.preferences}</span>
             </div>
           </div>
 
